@@ -25,8 +25,10 @@ public class EjemploStringValidar {
 		//if(curso.isEmpty() == false) {
 			//se convierte a mayusculas
 			System.out.println(curso.toUpperCase());
+			
 			System.out.println(curso.concat("desde cero!"));
 				
+			
 		}
 		
 		
