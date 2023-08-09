@@ -48,7 +48,7 @@ public class EjemploMetodos {
 		System.out.println("trabalenguas.indexOf('a') = " + trabalenguas.indexOf('a'));
 		System.out.println("trabalenguas.lastIndexOf = " + trabalenguas.lastIndexOf('a'));
 		
-		//
+		// 
 		System.out.println("trabalenguas.indexOf('lenguas') = " + trabalenguas.indexOf("lenguas"));
 		
 		//busca si en el string existen los caracteres ingresados
